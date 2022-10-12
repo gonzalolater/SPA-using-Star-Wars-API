@@ -10,3 +10,5 @@ Day 1
 *npm uninstal vitals
 *Clean and personalize.
 *npm install mui
+*Create folder components
+*Create component Navbar
