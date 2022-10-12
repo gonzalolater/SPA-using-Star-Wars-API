@@ -9,3 +9,4 @@ Day 1
 *npm i eslint
 *npm uninstal vitals
 *Clean and personalize.
+*npm install mui
