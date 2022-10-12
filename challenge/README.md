@@ -12,3 +12,5 @@ Day 1
 *npm install mui
 *Create folder components
 *Create component Navbar
+*import Navbar to app.js
+*Continue tomorrow
