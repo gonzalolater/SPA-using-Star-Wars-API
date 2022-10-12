@@ -8,3 +8,4 @@ Day 1
 *npm i create-react-app challenge
 *npm i eslint
 *npm uninstal vitals
+*Clean and personalize.
